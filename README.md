@@ -1,16 +1,9 @@
-# my_app
+A new Flutter project for rolling dice with a button click.
 
-A new Flutter project.
+It demonstrates the difference between stateful and stateless widgets.
 
-## Getting Started
+The main difference is in the 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#state
+---
+is the **data** that may change over time and impacts the UI rendering.
